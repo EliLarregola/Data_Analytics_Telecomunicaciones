@@ -31,7 +31,7 @@ Esta decisión se toma a partir de que éstas hojas, en parte, resumen el conten
 
 ### Metodología Aplicada
 
-El paso a paso del EDA, análisis y KPI's se encuentran detallados en el informe del EDA.
+El paso a paso del EDA, análisis y KPI's se encuentran detallados en el informe del [EDA](https://github.com/EliLarregola/Data_Analytics_Telecomunicaciones/blob/main/EDA.ipynb).
 
 #### Análisis Exploratorio de Datos (EDA):
 
